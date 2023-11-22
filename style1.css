@@ -43,13 +43,14 @@ nav li{
 hr{
     width: 70%;
 }
-nav img{
+video{
     height: 400px;
-    width: 80%;
-    margin: 0 10%;
+    width: 70%;
+    margin: 0 15%;
     position: absolute;
     object-fit: cover;
     object-position: center 10%;
+    
 }
 nav p{
     font-size: 50px;
@@ -122,7 +123,7 @@ border: rgb(228, 49, 228) solid 1px;
 #firstbloc{
     width: 1000px;
     height: 500px;
-    margin: 0 250px;
+    margin: 0 15%;
     display: flex;
     box-shadow: 5px 5px 5px 5px #261646;
     position: relative;
@@ -305,7 +306,7 @@ button.second{
 #treebloc{
     width: 1000px;
     height: 500px;
-    margin: 0 250px;
+    margin: 0 15%;
     display: flex;
     box-shadow: 5px 5px 5px 5px #261646;
     position: relative;
@@ -398,7 +399,7 @@ main-3{
 #fourbloc{
     width: 1000px;
     height: 500px;
-    margin: 0 250px;
+    margin: 0 15%;
     display: flex;
     box-shadow: 5px 5px 5px 5px #261646;
     position: relative;
@@ -488,7 +489,7 @@ main-4{
 #fivebloc{
     width: 1000px;
     height: 500px;
-    margin: 0 250px;
+    margin: 0 15%;
     display: flex;
     box-shadow: 5px 5px 5px 5px #261646;
     position: relative;
